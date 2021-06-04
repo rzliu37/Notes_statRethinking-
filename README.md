@@ -18,3 +18,5 @@ And I also put the seperate links for videos and slides below.
 online video:https://www.youtube.com/watch?v=4WVelCswXo4
 
 online slides:https://speakerdeck.com/rmcelreath/l01-statistical-rethinking-winter-2019
+
+The solution of rethinking statistics is here: http://xcelab.net/rmpubs/rethinking/rethinking_solutions_2.pdf
