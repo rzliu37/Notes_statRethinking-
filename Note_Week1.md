@@ -108,13 +108,29 @@ The first class gives a general overview of this course, like the time schedule 
 他在ppt中用了“factory account”这一说法，也属于工业信息，如纯白的袋子和纯蓝的袋子都不可能出现，因为蓝色的球虽然少，但至少会有一个
 
 白白白白，0
+
 蓝白白白，3
+
 蓝蓝白白，2
+
 蓝蓝蓝白，1
+
 蓝蓝蓝蓝，0
+
 
 * 方法是，接着相乘。
 
 如，蓝蓝白白的可能性是：
 
 16 x 2 = 32
+
+
+### summary
+
+* plausibility is probability: set of non-negative real numbers that sum to one
+* procedure: 1) design the model; 2) condition on the data; 3) evaluate the model
+* in other words: data story--> updata--> critique
+
+
+
+
